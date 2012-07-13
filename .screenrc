@@ -1,3 +1,6 @@
 escape ^xx  # default
 bindkey -k k5 prev
 bindkey -k k6 next
+defutf8 on
+utf8 on on
+
